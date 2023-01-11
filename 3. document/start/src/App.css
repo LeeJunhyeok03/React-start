@@ -1,0 +1,6 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+html {height: 100%;}
+body {height: 100%;}
+#root {display: flex; justify-content: center; align-items: center; height: 100%;}
+.btn {width: 150px; height: 30px; margin-top: 30px; border: 0; background-color: #333; color: #fff; cursor: pointer;}
+#root > div {display: flex; flex-direction: column; justify-content: center; align-items: center;}
